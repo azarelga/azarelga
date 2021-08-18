@@ -1,0 +1,7 @@
+- 😁👍👍
+- 🌞 hi my name is azarel but i think its cooler to just call me ditto
+- 📕 currently learning in first semester informatics telkom university
+- 🐱‍🏍 very interested in data science and software development
+- 🙏 this account is only to setup for future needs since in the meantime i only understand print() from python
+- 🔊 probably crying to phoebe bridgers right now
+- thank you for reading my bio 😁👍👍
