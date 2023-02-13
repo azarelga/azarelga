@@ -3,4 +3,4 @@
 - 📕 active student in Institut Teknologi Sepuluh Nopember
 - 🐱‍🏍 very interested in data science and software development
 - 🤖 curently learning back-end field at the time being
-- 🎵 big fan of ☠️ death grips and 🧁 twentyonepilots
+- 🎵 in the middle of my twink death era (death grips is now my listening 24/7)
