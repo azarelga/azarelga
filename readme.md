@@ -1,6 +1,12 @@
-# hello !
-- 🌞 hi my name is Arel !
-- 📕 active student in Institut Teknologi Sepuluh Nopember
-- 😍 very interested in data science, linux, and gaming emulators!
-- 🤖 currently learning deep learning and data engineering
-- 🔥 i use neovim, btw
+<h1 align="center">Hey there, I'm Azarel 👋</h1>
+
+🌱 I'm an active student at **Institut Teknologi Sepuluh Nopember (ITS)**, where I'm currently diving deep into the world of:
+
+- 🧠 **Deep Learning**
+- 🛠️ **Data Engineering**
+- 📊 **Data Science and Analytics**
+
+📫 **Let's connect!**  
+---
+
+<sub><i>Umm, I use Neovim btw.</i></sub> 🌌
